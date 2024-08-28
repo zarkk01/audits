@@ -1,9 +1,5 @@
 # Zark's Portfolio
 
-## Summary
-
-Hey somethign here blab blab ab
-
 For an audit, reach out via:
 - Twitter: https://twitter.com/zarkk01
 - Telegram: https://t.me/zarkk01
