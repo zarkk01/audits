@@ -1,9 +1,5 @@
 # Zark's Portfolio
 
-For an audit, reach out via:
-- Twitter: https://twitter.com/zarkk01
-- Telegram: https://t.me/zarkk01
-
 ## Competitive audits
 
 | Contest    |Platform| Category                  | Ranking 🏆   | Findings 🔎|
