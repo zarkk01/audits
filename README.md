@@ -12,5 +12,7 @@
 | [Size Protocol](https://code4rena.com/audits/2024-06-size)| Code4Arena | Lending & Borrowing | **#32**/193 | [2H, 4M](https://github.com/zarkk01/audits/blob/main/contests/2024-06-size.md)
 | [Magic Sea](https://audits.sherlock.xyz/contests/437)| Sherlock | DEX, Staking | **#39**/296 | [1H, 4M](https://github.com/zarkk01/audits/blob/main/contests/2024-07-magic-sea.md)
 | [Zivoe Finance](https://audits.sherlock.xyz/contests/280) | Sherlock | Real World Assets, Staking, Lending | **#48**/358 | [2H](https://github.com/zarkk01/audits/blob/main/contests/2024-04-zivoe.md)
+| [StakeUp Protocol](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Cantina | LST, Staking, RWA | **#?**/? | [?]()
+| [Mento X Good$ Integration](https://audits.sherlock.xyz/contests/598?filter=questions) | Sherlock | RWA, UBI, Stablecoin | **#?**/? | [?]()
 
 My submissions for all audit contests, except from those on Cantina and Immunefi, can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
