@@ -3,6 +3,7 @@
 | Contest    |Platform| Category                  | Ranking 🏆   | Findings 🔎|
 |------------|---------|------------------|-----------|----------|
 | [Folks Finance](https://immunefi.com/boost/folksfinance-boost/leaderboard/)| Immunefi | Lending & Borrowing | **#1**/31 🥇 | [1C (solo), 1H, 3M](https://x.com/zarkk01/status/1839664100940394960)
+| [Usual V1](https://audits.sherlock.xyz/contests/575?filter=results)| Sherlock | Vault & Staking | **#1**/293 🥇 | [2H](https://audits.sherlock.xyz/watson/zarkk01)
 | [Mitigation Folks Finance](https://immunefi.com/boost/mitigation-audit-folksfinance/leaderboard/)| Immunefi | Lending & Borrowing | **#2**/3 🥈 | [1L](https://x.com/immunefi/status/1841111205412270090)
 | [Zerolend](https://audits.sherlock.xyz/contests/466?filter=questions) | Sherlock |Lending & Borrowing| **#6**/299 | [3H, 5M](https://audits.sherlock.xyz/contests/466?filter=results)
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions) | Sherlock |NFT Marketplace| **#6**/277 | [5H, 4M](https://audits.sherlock.xyz/contests/468?filter=results)
