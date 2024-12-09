@@ -16,4 +16,9 @@
 | [Zivoe Finance](https://audits.sherlock.xyz/contests/280) | Sherlock | Real World Assets, Staking, Lending | **#48**/358 | [2H](https://github.com/zarkk01/audits/blob/main/contests/2024-04-zivoe.md)
 | [StakeUp Protocol](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Cantina | LST, Staking, RWA | **#?**/? | [?]()
 
+## Private audits
+
+| [Nimbi](https://nimbiwolfpack.com) | Private | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
+
+
 My submissions for all audit contests, except from those on Cantina and Immunefi, can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
