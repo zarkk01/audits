@@ -18,7 +18,9 @@
 
 ## Private audits
 
-| [Nimbi](https://nimbiwolfpack.com) | Private | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 
 
-My submissions for all audit contests, except from those on Cantina and Immunefi, can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
+My submissions for all audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01), too.
