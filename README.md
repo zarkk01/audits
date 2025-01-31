@@ -9,6 +9,7 @@
 | [Angstrom](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940) | Cantina | DEX, Uniswap V4 | **#5**/303 | [1M]()
 | [Zerolend](https://audits.sherlock.xyz/contests/466?filter=questions) | Sherlock |Lending & Borrowing| **#6**/299 | [3H, 5M](https://audits.sherlock.xyz/contests/466?filter=results)
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions) | Sherlock |NFT Marketplace| **#6**/277 | [5H, 4M](https://audits.sherlock.xyz/contests/468?filter=results)
+| [Flat Money](https://audits.sherlock.xyz/contests/620?filter=questions) | Sherlock |Derivatives| **#6**/20 | [1H, 5M](https://audits.sherlock.xyz/contests/620?filter=results)
 | [Usual](https://cantina.xyz/competitions/31a752e3-8ece-49b3-a9ee-d7294c659340)| Cantina | Stablecoin, Real Word Assets | **#8**/275 | [1M](https://github.com/zarkk01/audits/blob/main/contests/2024-06-usual.md) 
 | [Numa](https://audits.sherlock.xyz/contests/554?filter=questions) | Sherlock | Synthetics | **#9**/255 | [1M](https://github.com/sherlock-audit/2024-12-numa-audit-judging/issues/201)
 | [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Cantina | LST, Staking, RWA | **#11**/363 | [4H 3M]()
