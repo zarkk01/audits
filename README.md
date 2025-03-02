@@ -23,6 +23,7 @@
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
+| [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 
 ## Pashov Audit Group audits
