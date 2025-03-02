@@ -25,5 +25,12 @@
 |---------------------------------------|-----------|----------|
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 
+## Pashov Audit Group audits
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Veil](https://www.veil.cash/)  | Tornado fork | [2L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
+| [Undisclosed]()  | Stablecoin| [1H 1M]()
+
 
 My submissions for all audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01), too.
