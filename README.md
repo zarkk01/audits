@@ -23,7 +23,9 @@
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Veil](https://www.veil.cash/)  | Tornado fork | [2L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
-| [Undisclosed]()  | Stablecoin| [1H 1M]()
+| [Falcon Finance](https://falcon.finance/)  | Stablecoin| [1M](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
+| [Undisclosed]()  | | []()
+| [Undisclosed]()  | | []()
 
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
