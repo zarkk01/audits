@@ -17,13 +17,15 @@
 |---------------------------------------|-----------|----------|
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
+| [Undisclosed]()  | | []()
 
 ## Pashov Audit Group audits
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
-| [Veil](https://www.veil.cash/)  | Tornado fork | [2L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
-| [Falcon Finance](https://falcon.finance/)  | Stablecoin| [1M](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
+| [Veil](https://www.veil.cash/)  | ZK Mixer | [3L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
+| [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
+| [Undisclosed]()  | | []()
 | [Undisclosed]()  | | []()
 | [Undisclosed]()  | | []()
 
