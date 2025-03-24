@@ -17,7 +17,7 @@
 |---------------------------------------|-----------|----------|
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
-| [Undisclosed]()  | | []()
+| [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
 
 ## Pashov Audit Group audits
 
