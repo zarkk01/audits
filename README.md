@@ -28,6 +28,7 @@
 | [Undisclosed]()  | | []()
 | [Undisclosed]()  | | []()
 | [Undisclosed]()  | | []()
+| [Undisclosed]()  | | []()
 
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
