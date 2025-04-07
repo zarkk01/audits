@@ -11,6 +11,18 @@
 | [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions) | Sherlock |NFT Marketplace| **#6**/277 | [5H, 4M](https://audits.sherlock.xyz/contests/468?filter=results)
 | [Flat Money](https://audits.sherlock.xyz/contests/620?filter=questions) | Sherlock |Derivatives| **#6**/20 | [1H, 5M](https://audits.sherlock.xyz/contests/620?filter=results)
 
+## Pashov Audit Group audits
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Veil](https://www.veil.cash/)  | ZK Mixer | [3L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
+| [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
+| [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [Coming..]()
+| [BioDAO](https://www.bio.xyz/)  | Launchpad | [Coming..]()
+| [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [Coming..]()
+| [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
+| [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
+
 ## Private audits
 
 | Protocol    | Category                  | Findings 🔎|
@@ -18,17 +30,5 @@
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 | [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
-
-## Pashov Audit Group audits
-
-| Protocol    | Category                  | Findings 🔎|
-|---------------------------------------|-----------|----------|
-| [Veil](https://www.veil.cash/)  | ZK Mixer | [3L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
-| [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
-| [Undisclosed]()  | | []()
-| [Undisclosed]()  | | []()
-| [Undisclosed]()  | | []()
-| [Undisclosed]()  | | []()
-
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
