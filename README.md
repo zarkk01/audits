@@ -22,7 +22,7 @@
 | [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [Coming..]()
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
-
+| [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
 ## Private audits
 
 | Protocol    | Category                  | Findings 🔎|
