@@ -23,6 +23,13 @@
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
+
+## Shieldify audits
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Cured Finance](https://docs.curedfi.io/)  | ve(3,3) | [Coming..]()
+
 ## Private audits
 
 | Protocol    | Category                  | Findings 🔎|
