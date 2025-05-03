@@ -23,6 +23,7 @@
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
+| [Coming..]()  | Coming.. | [Coming..]()
 
 ## Shieldify audits
 
@@ -37,5 +38,6 @@
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 | [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
+| [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Coming..]()
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
