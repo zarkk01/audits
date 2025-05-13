@@ -23,7 +23,7 @@
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
-| [Coming..]()  | Coming.. | [Coming..]()
+| [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
 
 ## Shieldify audits
 
