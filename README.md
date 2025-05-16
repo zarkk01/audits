@@ -24,6 +24,7 @@
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
 | [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
+| Coming.. | Coming.. | [Coming..]()
 
 ## Shieldify audits
 
