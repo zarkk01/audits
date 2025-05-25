@@ -24,7 +24,7 @@
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
 | [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
-| Blueberry | HyperEVM L2 | [Coming..]()
+| [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Coming..]()
 
 ## Shieldify audits
 
