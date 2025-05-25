@@ -36,8 +36,8 @@
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
-| [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
+| [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Coming..]()
 | [Silo Finance V2](https://www.silo.finance/)  | [xSILO](https://github.com/silo-finance/silo-contracts-v2/tree/develop/x-silo) | [Coming..]()
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
