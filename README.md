@@ -26,6 +26,7 @@
 | [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
 | [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Coming..]()
 | [DeFi App](https://defi.app/) | Airdrop | [Coming..]()
+| [Izun Finance](https://defi.app/) | Stablecoin | [Coming..]()
 
 ## Shieldify audits
 
