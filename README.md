@@ -16,7 +16,7 @@
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Veil](https://www.veil.cash/)  | ZK Mixer | [3L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
-| [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
+| [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M, 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
 | [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [Coming..]()
 | [BioDAO](https://www.bio.xyz/)  | Launchpad | [Coming..]()
 | [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [Coming..]()
