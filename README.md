@@ -32,7 +32,7 @@
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
-| [Cured Finance](https://docs.curedfi.io/)  | ve(3,3) | [Coming..]()
+| [Cured Finance](https://docs.curedfi.io/)  | ve(3,3) | [8H, 5M]()
 
 ## Private audits
 
