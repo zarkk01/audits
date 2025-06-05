@@ -27,6 +27,8 @@
 | [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Coming..]()
 | [DeFi App](https://defi.app/) | Airdrop | [Coming..]()
 | [Izun Finance](https://defi.app/) | Stablecoin | [Coming..]()
+| [Agora Finance](https://www.agora.finance/) | DEX | [Coming..]()
+
 
 ## Shieldify audits
 
