@@ -17,9 +17,9 @@
 |---------------------------------------|-----------|----------|
 | [Veil](https://www.veil.cash/)  | ZK Mixer | [3L](https://github.com/veildotcash/veildotcash_contracts/blob/main/audit/Veil%20Cash-security-review_2025-02-12.pdf)
 | [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M, 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
-| [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [Coming..]()
-| [BioDAO](https://www.bio.xyz/)  | Launchpad | [Coming..]()
-| [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [Coming..]()
+| [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [8H, 6M](https://github.com/code-423n4/2025-04-kinetiq/blob/main/audits/kinetiq-pashov.pdf)
+| [BioDAO](https://www.bio.xyz/)  | Launchpad | [3H, 2M](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ba2jNU6BPQUl4RXgHor%2Fuploads%2FW7mPQHDWHGApxw1jl6CO%2FBio-security-review_2025-03-12.pdf?alt=media&token=e715feb0-d7f7-4297-b0da-f68fc4686dc9)
+| [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [2M](https://github.com/bcnmy/nexus/blob/main/audits/Nexus-Pashov-Review_2025-03.pdf)
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
