@@ -22,7 +22,7 @@
 | [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [2M](https://github.com/bcnmy/nexus/blob/main/audits/Nexus-Pashov-Review_2025-03.pdf)
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
-| [Level Finance](https://levelusd.com/)  | Stablecoin | [Coming..]()
+| [Level Finance](https://levelusd.com/)  | Stablecoin | [1H, 5M](https://storage.googleapis.com/level-public/audits/%5BPashov%5D%20Level%20v2%20Security%20Review.pdf)
 | [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
 | [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Coming..]()
 | [DeFi App](https://defi.app/) | Airdrop | [Coming..]()
