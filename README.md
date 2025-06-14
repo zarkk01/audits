@@ -28,6 +28,7 @@
 | [DeFi App](https://defi.app/) | Airdrop | [Coming..]()
 | [Izun Finance](https://defi.app/) | Stablecoin | [Coming..]()
 | [Agora Finance](https://www.agora.finance/) | DEX | [Coming..]()
+| [Burve](https://docs.burve.fi/) | DEX | [Coming..]()
 
 
 ## Shieldify audits
