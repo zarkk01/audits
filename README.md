@@ -29,6 +29,7 @@
 | [Izun Finance](https://defi.app/) | Stablecoin | [Coming..]()
 | [Agora Finance](https://www.agora.finance/) | DEX | [Coming..]()
 | [Burve](https://docs.burve.fi/) | DEX | [Coming..]()
+| [Elytra](https://elytra.io/) | HyperEVM LST | [Coming..]()
 
 
 ## Shieldify audits
