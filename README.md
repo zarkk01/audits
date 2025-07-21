@@ -30,6 +30,7 @@
 | [Agora Finance](https://www.agora.finance/) | DEX | [Coming..]()
 | [Burve](https://docs.burve.fi/) | DEX | [Coming..]()
 | [Elytra](https://elytra.io/) | HyperEVM LST | [Coming..]()
+| [Arcadia](https://arcadia.finance/) | LP Farms | [Coming..]()
 
 
 ## Shieldify audits
