@@ -32,6 +32,8 @@
 | [Elytra](https://elytra.io/) | HyperEVM LST | [Coming..]()
 | [Arcadia](https://arcadia.finance/) | LP Farms | [Coming..]()
 | [Euler Finance](https://www.euler.finance/) | Lending | [Coming..]()
+| [KittenSwap](https://kittenswap.finance/) | DEX | [Coming..]()
+
 
 
 ## Shieldify audits
