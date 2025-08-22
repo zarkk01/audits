@@ -4,6 +4,7 @@
 |------------|---------|------------------|-----------|----------|
 | [Folks Finance](https://immunefi.com/boost/folksfinance-boost/leaderboard/)| Immunefi | Lending & Borrowing | **#1**/31 🥇 | [1C (solo), 1H, 3M](https://x.com/zarkk01/status/1839664100940394960)
 | [Usual V1](https://audits.sherlock.xyz/contests/575?filter=results)| Sherlock | Vault & Staking | **#1**/293 🥇 | [2H](https://audits.sherlock.xyz/watson/zarkk01)
+| [Symbiotic Relay](https://symbiotic.fi/)| Sherlock | Restaking | **#2**/646 🥈 | [5M](https://audits.sherlock.xyz/contests/967)
 | [Mitigation Folks Finance](https://immunefi.com/boost/mitigation-audit-folksfinance/leaderboard/)| Immunefi | Lending & Borrowing | **#2**/18 🥈 | [1L](https://x.com/immunefi/status/1841111205412270090)
 | [Extra Finance](https://audits.sherlock.xyz/contests/380?filter=results)| Sherlock | Lending & Borrowing | **#4**/20 | [2M](https://audits.sherlock.xyz/contests/380?filter=questions)
 | [Angstrom](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940) | Cantina | DEX, Uniswap V4 | **#5**/303 | [1M]()
