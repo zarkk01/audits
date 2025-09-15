@@ -35,13 +35,18 @@
 | [Euler Finance](https://www.euler.finance/) | Lending | [Coming..]()
 | [KittenSwap](https://kittenswap.finance/) | DEX | [Coming..]()
 
+## Sherlock collaborative audits
 
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Napier](https://napier.finance/)  | Pendle-AMM fork | [Coming..]()
 
 ## Shieldify audits
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Cured Finance](https://docs.curedfi.io/)  | ve(3,3) | [8H, 5M]()
+| [beraBTC](https://berabtc.io/)  | Vault | [Coming..]()
 
 ## Private audits
 
