@@ -34,6 +34,7 @@
 | [Arcadia](https://arcadia.finance/) | LP Farms | [Coming..]()
 | [Euler Finance](https://www.euler.finance/) | Lending | [Coming..]()
 | [KittenSwap](https://kittenswap.finance/) | DEX | [Coming..]()
+| [Instruxi](https://www.instruxi.io/) | RWA | [Coming..]()
 
 ## Sherlock collaborative audits
 
