@@ -21,33 +21,33 @@
 | [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [8H, 6M](https://github.com/code-423n4/2025-04-kinetiq/blob/main/audits/kinetiq-pashov.pdf)
 | [BioDAO](https://www.bio.xyz/)  | Launchpad | [3H, 2M](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ba2jNU6BPQUl4RXgHor%2Fuploads%2FW7mPQHDWHGApxw1jl6CO%2FBio-security-review_2025-03-12.pdf?alt=media&token=e715feb0-d7f7-4297-b0da-f68fc4686dc9)
 | [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [2M](https://github.com/bcnmy/nexus/blob/main/audits/Nexus-Pashov-Review_2025-03.pdf)
-| [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Coming..]()
-| [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Coming..]()
+| [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Private]()
+| [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Private]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [1H, 5M](https://storage.googleapis.com/level-public/audits/%5BPashov%5D%20Level%20v2%20Security%20Review.pdf)
-| [Tanssi](https://www.tanssi.network/)  | Infra | [Coming..]()
-| [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Coming..]()
-| [DeFi App](https://defi.app/) | Airdrop | [Coming..]()
-| [Izun Finance](https://defi.app/) | Stablecoin | [Coming..]()
-| [Agora Finance](https://www.agora.finance/) | DEX | [Coming..]()
-| [Burve](https://docs.burve.fi/) | DEX | [Coming..]()
-| [Elytra](https://elytra.io/) | HyperEVM LST | [Coming..]()
-| [Arcadia](https://arcadia.finance/) | LP Farms | [Coming..]()
-| [Euler Finance](https://www.euler.finance/) | Lending | [Coming..]()
-| [KittenSwap](https://kittenswap.finance/) | DEX | [Coming..]()
-| [Instruxi](https://www.instruxi.io/) | RWA | [Coming..]()
+| [Tanssi](https://www.tanssi.network/)  | Infra | [Private]()
+| [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Private]()
+| [DeFi App](https://defi.app/) | Airdrop | [Private]()
+| [Izun Finance](https://defi.app/) | Stablecoin | [Private]()
+| [Agora Finance](https://www.agora.finance/) | DEX | [Private]()
+| [Burve](https://docs.burve.fi/) | DEX | [Private]()
+| [Elytra](https://elytra.io/) | HyperEVM LST | [Private]()
+| [Arcadia](https://arcadia.finance/) | LP Farms | [Private]()
+| [Euler Finance](https://www.euler.finance/) | Lending | [Private]()
+| [KittenSwap](https://kittenswap.finance/) | DEX | [Private]()
+| [Instruxi](https://www.instruxi.io/) | RWA | [Private]()
 
 ## Sherlock collaborative audits
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
-| [Napier](https://napier.finance/)  | Pendle-AMM fork | [Coming..]()
+| [Napier](https://napier.finance/)  | Pendle-AMM fork | [Private]()
 
 ## Shieldify audits
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Cured Finance](https://docs.curedfi.io/)  | ve(3,3) | [8H, 5M]()
-| [beraBTC](https://berabtc.io/)  | Vault | [Coming..]()
+| [beraBTC](https://berabtc.io/)  | Vault | [Private]()
 
 ## Private audits
 
@@ -55,7 +55,7 @@
 |---------------------------------------|-----------|----------|
 | [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H, 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
-| [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Coming..]()
+| [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Private]()
 | [Silo Finance V2](https://www.silo.finance/)  | xSILO | [1H, 3M](https://hackmd.io/ZSmUyreGSdmivUiNmzpsiA)
 | [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H, 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 
