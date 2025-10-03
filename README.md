@@ -58,6 +58,5 @@
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Private]()
 | [Silo Finance V2](https://www.silo.finance/)  | xSILO | [1H, 3M](https://hackmd.io/ZSmUyreGSdmivUiNmzpsiA)
-| [Nimbi](https://nimbiwolfpack.com)  | ERC404 | [4H, 4M](https://github.com/zarkk01/audits/blob/main/private/2024-11-nimbi.pdf)
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
