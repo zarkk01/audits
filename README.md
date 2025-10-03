@@ -54,6 +54,7 @@
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Silo Finance V2](https://www.silo.finance/)  | Hook | [3H, 2M](https://hackmd.io/44XWQFLDTy-Vrb9z1lPWlw)
+| [Silo Finance V2](https://www.silo.finance/)  | Dynamic Kink Model | [1H, 1M](https://hackmd.io/@zark/rk6S8IN2ee)
 | [Silo Finance V2](https://www.silo.finance/)  | Router | [7L](https://hackmd.io/@zark/BkApFCE5yg)
 | [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Private]()
 | [Silo Finance V2](https://www.silo.finance/)  | xSILO | [1H, 3M](https://hackmd.io/ZSmUyreGSdmivUiNmzpsiA)
