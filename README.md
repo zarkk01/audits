@@ -42,6 +42,12 @@
 |---------------------------------------|-----------|----------|
 | [Napier](https://napier.finance/)  | Pendle-AMM fork | [Private]()
 
+## Cyfrin audits
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Suzaku](https://www.suzaku.network/)  | Restaking | [Private]()
+
 ## Shieldify audits
 
 | Protocol    | Category                  | Findings 🔎|
