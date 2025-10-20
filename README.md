@@ -36,6 +36,7 @@
 | [KittenSwap](https://kittenswap.finance/) | DEX | [Private]()
 | [Instruxi](https://www.instruxi.io/) | RWA | [Private]()
 | [Saffron](https://www.saffron.finance/) | Yield | [Private]()
+| [BOB](https://www.gobob.xyz/) | Staking | [Private]()
 
 ## Sherlock collaborative audits
 
