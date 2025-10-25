@@ -68,6 +68,5 @@
 | [Silo Finance V2](https://www.silo.finance/)  | ERC20 | [Private]()
 | [Silo Finance V2](https://www.silo.finance/)  | xSILO | [1H, 3M](https://hackmd.io/ZSmUyreGSdmivUiNmzpsiA)
 | [Silo Finance V2](https://www.silo.finance/)  | PT Linear Oracle | [3L](https://hackmd.io/@zark/BJZ3Hsv0gx)
-https://hackmd.io/@zark/BJZ3Hsv0gx
 
 My submissions for **all** audit contests can be found [here](https://audits.sherlock.xyz/watson/zarkk01).
