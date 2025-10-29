@@ -37,12 +37,7 @@
 | [Instruxi](https://www.instruxi.io/) | RWA | [Private]()
 | [Saffron](https://www.saffron.finance/) | Yield | [Private]()
 | [BOB](https://www.gobob.xyz/) | Staking | [Private]()
-
-## Sherlock collaborative audits
-
-| Protocol    | Category                  | Findings 🔎|
-|---------------------------------------|-----------|----------|
-| [Napier](https://napier.finance/)  | Pendle-AMM fork | [Private]()
+| [Turnkey](https://www.turnkey.com/) | EIP7702 | [Private]()
 
 ## Cyfrin audits
 
@@ -50,6 +45,12 @@
 |---------------------------------------|-----------|----------|
 | [Suzaku](https://www.suzaku.network/)  | Restaking | [Private]()
 | [STBL](https://www.stbl.com/)  | Stablecoin | [Private]()
+
+## Sherlock collaborative audits
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [Napier](https://napier.finance/)  | Pendle-AMM fork | [Private]()
 
 ## Shieldify audits
 
