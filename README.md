@@ -24,7 +24,7 @@
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Private]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Private]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [1H, 5M](https://storage.googleapis.com/level-public/audits/%5BPashov%5D%20Level%20v2%20Security%20Review.pdf)
-| [Tanssi](https://www.tanssi.network/)  | Infra | [Private]()
+| [Tanssi](https://www.tanssi.network/)  | Infra | [1H, 6M](https://github.com/pashov/audits/blob/master/team/pdf/Tanssi-security-review_2025-04-30.pdf)
 | [Blueberry](https://x.com/blueberryfdn) | HyperEVM L2 | [Private]()
 | [DeFi App](https://defi.app/) | Airdrop | [Private]()
 | [Izun Finance](https://defi.app/) | Stablecoin | [Private]()
