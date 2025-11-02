@@ -20,7 +20,7 @@
 | [Falcon Finance](https://falcon.finance/)  | Stablecoin | [2M, 10L](https://github.com/pashov/audits/blob/master/team/pdf/Falcon-security-review_2025-02-17.pdf)
 | [Kinetiq](https://kinetiq.xyz/)  | HyperEVM LST | [8H, 6M](https://github.com/code-423n4/2025-04-kinetiq/blob/main/audits/kinetiq-pashov.pdf)
 | [BioDAO](https://www.bio.xyz/)  | Launchpad | [3H, 2M](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F3ba2jNU6BPQUl4RXgHor%2Fuploads%2FW7mPQHDWHGApxw1jl6CO%2FBio-security-review_2025-03-12.pdf?alt=media&token=e715feb0-d7f7-4297-b0da-f68fc4686dc9)
-| [Nexus](https://www.biconomy.io/)  | ERC-4337 SA | [2M](https://github.com/bcnmy/nexus/blob/main/audits/Nexus-Pashov-Review_2025-03.pdf)
+| [Nexus](https://www.biconomy.io/)  | ERC4337 | [2M](https://github.com/bcnmy/nexus/blob/main/audits/Nexus-Pashov-Review_2025-03.pdf)
 | [Blueberry](https://x.com/blueberryfdn?lang=en)  | Hyperliquid L1 | [Private]()
 | [SXT Chain](https://www.spaceandtime.io/)  | Bridge | [Private]()
 | [Level Finance](https://levelusd.com/)  | Stablecoin | [1H, 5M](https://storage.googleapis.com/level-public/audits/%5BPashov%5D%20Level%20v2%20Security%20Review.pdf)
