@@ -32,12 +32,13 @@
 | [Burve](https://docs.burve.fi/) | DEX | [Private]()
 | [Elytra](https://elytra.io/) | HyperEVM LST | [Private]()
 | [Arcadia](https://arcadia.finance/) | LP Farms | [Private]()
-| [Euler Finance](https://www.euler.finance/) | Lending | [Private]()
+| [Euler Earn](https://www.euler.finance/) | Lending | [Private]()
 | [KittenSwap](https://kittenswap.finance/) | DEX | [Private]()
 | [Instruxi](https://www.instruxi.io/) | RWA | [Private]()
 | [Saffron](https://www.saffron.finance/) | Yield | [Private]()
 | [BOB](https://www.gobob.xyz/) | Staking | [Private]()
 | [Turnkey](https://www.turnkey.com/) | EIP7702 | [Private]()
+| [Euler Finance](https://www.euler.finance/) | Lending | [Private]()
 
 ## Cyfrin audits
 
@@ -45,12 +46,19 @@
 |---------------------------------------|-----------|----------|
 | [Suzaku](https://www.suzaku.network/)  | Restaking | [Private]()
 | [STBL](https://www.stbl.com/)  | Stablecoin | [Private]()
+| [Renalta](https://renalta.com/)  | Account Abstraction | [Private]()
 
 ## Sherlock collaborative audits
 
 | Protocol    | Category                  | Findings 🔎|
 |---------------------------------------|-----------|----------|
 | [Napier](https://napier.finance/)  | Pendle-AMM fork | [Private]()
+
+## Burra Security
+
+| Protocol    | Category                  | Findings 🔎|
+|---------------------------------------|-----------|----------|
+| [ZAMA](https://www.zama.org/)  | Layer0 Integration | [Private]()
 
 ## Shieldify audits
 
